@@ -1,0 +1,22 @@
+header {
+  width: 700px;
+  height: 300px;
+}
+header .app__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+header .app__header__logo {
+  color: black;
+}
+header .app__header__link {
+  display: flex;
+}
+header .app__header__link__item {
+  padding-right: 10px;
+}
+header .app__header__btn {
+  border-radius: 45px;
+}/*# sourceMappingURL=main.css.map */

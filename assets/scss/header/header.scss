@@ -1,0 +1,36 @@
+header {
+width: 700px;
+height: 300px;
+  
+
+
+    .app__header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 100%;
+      
+
+        &__logo {
+            color: black;
+
+        }
+
+        &__right {}
+
+
+
+        &__link {
+            display: flex;
+            &__item {
+                padding-right: 10px;
+                a {}
+            }
+        }
+
+        &__btn {
+            border-radius: 45px;
+        }
+
+    }
+}
